@@ -1,3 +1,4 @@
+# Ejercicio 2: Detector de palíndromo
 frase = "Anita lava la tina"
 
 frase_limpia = frase.replace(" ", "").lower()
